@@ -4,18 +4,18 @@
 
     <configTextos>
         <portfolioTexto>Portfolio</portfolioTexto>
-        <sobreTexto>Sobre</sobreTexto>
-        <contatoTexto>Contato</contatoTexto>
-        <localizacaoTexto>Localização</localizacaoTexto>
-        <fiqueEmContatoTexto>Fique em Contato</fiqueEmContatoTexto>
-        <sobreMimTexto>Sobre Mim</sobreMimTexto>
+        <sobreTexto>About</sobreTexto>
+        <contatoTexto>Contact</contatoTexto>
+        <localizacaoTexto>Localization</localizacaoTexto>
+        <fiqueEmContatoTexto>Stay in touch</fiqueEmContatoTexto>
+        <sobreMimTexto>About me</sobreMimTexto>
     </configTextos>
 
     <sobre>
         <avatar>img/profile.png</avatar>
-        <nome>Rafael Jourdan</nome>
-        <mensagemBoasVindas>Olá, seja bem vindo!</mensagemBoasVindas>
-        <habilidades>Web Developer</habilidades>
+        <nome>Eduardo Andrade</nome>
+        <mensagemBoasVindas>Welcome!</mensagemBoasVindas>
+        <habilidades>Data Scientist</habilidades>
         <resumo>
             <texto>Web Developer desde 2009 com sólidos conhecimentos em linguagem de programação, arquitetura de software e análise de dados.</texto>
             <texto>Pós-graduado em Engenharia de Software pelo Infnet e graduado em Sistemas da Informação pela UniverCidade.</texto>
