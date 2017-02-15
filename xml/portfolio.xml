@@ -72,13 +72,13 @@
     </redesSociais>
 
     <contato>
-        <texto></texto>
+        <!--<texto></texto>-->
         <localizacao>Niterói, Rio de Janeiro - Brazil</localizacao>
         <email>eduardoandrade@ufrj.br</email>
-        <telefones>
+        <!--<telefones>
             <item></item>
             <item></item>
-        </telefones>
+        </telefones>-->
     </contato>    
     
 </portfolio>
