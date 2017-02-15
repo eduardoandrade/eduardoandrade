@@ -71,14 +71,14 @@
         <github>https://github.com/eduardoandrade/</github>
     </redesSociais>
 
-    <contato>
+    <!--<contato>-->
         <!--<texto></texto>-->
-        <localizacao>Niterói, Rio de Janeiro - Brazil</localizacao>
-        <email>eduardoandrade@ufrj.br</email>
+        <!--<localizacao>Niterói, Rio de Janeiro - Brazil</localizacao>-->
+        <!--<email>eduardoandrade@ufrj.br</email>-->
         <!--<telefones>
             <item></item>
             <item></item>
         </telefones>-->
-    </contato>    
+    <!--</contato>-->    
     
 </portfolio>
