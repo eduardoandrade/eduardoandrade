@@ -63,20 +63,21 @@
 
     <!--Comentar o que não utilizar-->
     <redesSociais>
-        <facebook>https://www.facebook.com/rafaeljourdan</facebook>
+        <!--facebook>https://www.facebook.com/rafaeljourdan</facebook>-->
         <!--<googleplus></googleplus>-->
         <!--<twitter></twitter>-->
-        <linkedin>http://br.linkedin.com/in/rafaeljourdan</linkedin>
-        <github>https://github.com/rafaeljourdan</github>
+        <twitter>https://twitter.com/adaeeduardo</twitter>
+        <linkedin>https://br.linkedin.com/in/eduardo-de-oliveira-andrade-12815215</linkedin>
+        <github>https://github.com/eduardoandrade/</github>
     </redesSociais>
 
     <contato>
-        <texto>Pronto para iniciar seu próximo projeto conosco? Que ótimo! Entre em contato através do email ou telefone e retornaremos o mais breve possível.</texto>
-        <localizacao>Freguesia, Rio de Janeiro - Brasil</localizacao>
-        <email>rafaelfaj@gmail.com</email>
+        <texto></texto>
+        <localizacao>Niterói, Rio de Janeiro - Brazil</localizacao>
+        <email>eduardoandrade@ufrj.br</email>
         <telefones>
-            <item>(21) 97983-0909</item>
-            <item>(21) 3338-5406</item>
+            <item></item>
+            <item></item>
         </telefones>
     </contato>    
     
