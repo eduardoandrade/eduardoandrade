@@ -30,7 +30,7 @@
             <nome>Data-triplify</nome>
             <imagem>img/portfolio/data_triplify.png</imagem>
             <descricao>
-                <![CDATA[A plug-in for Wordpress to triplify your data in several formats, such as JSON-LD, RDF, XML. ]]>
+                <![CDATA[A plug-in for Wordpress to triplify your data in several formats, such as JSON-LD, RDF, XML.]]>
             </descricao>
             <!--<data>2016</data>-->
             <!--<servico>Plug-in for Wordpress</servico>-->
@@ -38,10 +38,10 @@
         </item>
 
         <item>
-            <nome>Matizar</nome>
-            <imagem>img/portfolio/matizar.jpg</imagem>
+            <nome>Profiling Household Consumption with Clustering Algorithms</nome>
+            <imagem>img/portfolio/article.jpg</imagem>
             <descricao>
-                <![CDATA[Site com sistema integrado para gestão dos projetos audiovisuais desenvolvidos pela empresa além de notícias, mural e página de contato.]]>
+                <![CDATA[An article that presents an approach to the electric energy consumption in a home, and seeks to identify patterns. This is done on a database with many devices that have had their power consumption measured regularly. Through a clustering algorithm used on these data, we tried to establish consumer profiles that contribute to a better use of energy. They yielded results that identified energy consumption patterns on conditions such as temperature and time.]]>
             </descricao>
             <!--<data>2015</data>-->
             <!--<servico>Back-end e Front-end</servico>-->
