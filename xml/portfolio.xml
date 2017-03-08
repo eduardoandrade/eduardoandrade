@@ -49,14 +49,14 @@
         </item>
 
         <item>
-            <nome>Hotsite Metrô Rio Copa</nome>
-            <imagem>img/portfolio/metro.jpg</imagem>
+            <nome>Nmap IPv6 Modified</nome>
+            <imagem>img/portfolio/nmap.png</imagem>
             <descricao>
-                <![CDATA[Hotsite do <b>Metrô Rio</b> em português, inglês e espanhol para os usuários visualizarem as rotas, linhas e estações de metrô durante a Copa do Mundo. ]]>
+                <![CDATA[This is a modified version of an existent Nmap with features to accelerate port scans.]]>
             </descricao>
-            <data>2014</data>
-            <servico>Front-end</servico>
-            <tags>HTML5, CSS3, JS, AngularJs, Responsive</tags>
+            <!--<data>2014</data>-->
+            <!--<servico>Front-end</servico>-->
+            <!--<tags>HTML5, CSS3, JS, AngularJs, Responsive</tags>-->
         </item>
 
     </projetos>
