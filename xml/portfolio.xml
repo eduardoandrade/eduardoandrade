@@ -27,14 +27,14 @@
     <projetos>
 
         <item>
-            <nome>Prêmio Paralímpicos Brasileiro 2015</nome>
-            <imagem>img/portfolio/premio.jpg</imagem>
+            <nome>Data-triplify</nome>
+            <imagem>img/portfolio/data_triplify.png</imagem>
             <descricao>
-                <![CDATA[Site com sistema de ranking integrado para votação popular para eleger o destaque do ano além de quiz sobre o prêmio e comitê paralímpicos. ]]>
+                <![CDATA[A plug-in for Wordpress to triplify your data in several formats, such as JSON-LD, RDF, XML. ]]>
             </descricao>
-            <data>2015</data>
-            <servico>Back-end e Front-end</servico>
-            <tags>Asp.Net MVC, C#, HTML5, CSS3, JS, Responsive</tags>
+            <!--<data>2016</data>-->
+            <!--<servico>Plug-in for Wordpress</servico>-->
+            <!--<tags>Asp.Net MVC, C#, HTML5, CSS3, JS, Responsive</tags>-->
         </item>
 
         <item>
@@ -43,9 +43,9 @@
             <descricao>
                 <![CDATA[Site com sistema integrado para gestão dos projetos audiovisuais desenvolvidos pela empresa além de notícias, mural e página de contato.]]>
             </descricao>
-            <data>2015</data>
-            <servico>Back-end e Front-end</servico>
-            <tags>PHP, MySQL, HTML5, CSS3, JS, Responsive</tags>
+            <!--<data>2015</data>-->
+            <!--<servico>Back-end e Front-end</servico>-->
+            <!--<tags>PHP, MySQL, HTML5, CSS3, JS, Responsive</tags>-->
         </item>
 
         <item>
