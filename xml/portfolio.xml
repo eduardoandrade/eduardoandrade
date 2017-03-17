@@ -6,7 +6,7 @@
         <portfolioTexto>Portfolio</portfolioTexto>
         <sobreTexto>About</sobreTexto>
         <contatoTexto>Contact</contatoTexto>
-        <localizacaoTexto>Other</localizacaoTexto>
+        <localizacaoTexto>Localization</localizacaoTexto>
         <fiqueEmContatoTexto>Stay in touch</fiqueEmContatoTexto>
         <sobreMimTexto>About me</sobreMimTexto>
     </configTextos>
@@ -74,7 +74,7 @@
 
     <contato>
         <texto>Feel free to talk to me, either by Skype or Email</texto>
-        <localizacao><a href="http://lattes.cnpq.br/3122564652271949" target="_blank"></a>Curriculum Lattes</localizacao>
+        <localizacao>Niterói, Rio de Janeiro - Brazil</localizacao>
         <email>eduardoandrade@ufrj.br</email>
         <telefones>
             <item>Eduardo Andrade</item>
