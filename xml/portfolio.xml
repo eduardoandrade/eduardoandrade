@@ -6,7 +6,7 @@
         <portfolioTexto>Portfolio</portfolioTexto>
         <sobreTexto>About</sobreTexto>
         <contatoTexto>Contact</contatoTexto>
-        <localizacaoTexto>Localization</localizacaoTexto>
+        <localizacaoTexto>Other</localizacaoTexto>
         <fiqueEmContatoTexto>Stay in touch</fiqueEmContatoTexto>
         <sobreMimTexto>About me</sobreMimTexto>
     </configTextos>
