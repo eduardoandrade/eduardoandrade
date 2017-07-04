@@ -17,11 +17,11 @@
         <mensagemBoasVindas>Welcome!</mensagemBoasVindas>
         <habilidades>Data Scientist</habilidades>
         <resumo>
-            <texto>Enthusiastic of Artificial Intelligence and Information Security, including researches in Data Mining, Machine Learning, Deep Learning, Malware and Network Analysis.</texto>
+            <texto>Enthusiastic of Artificial Intelligence and Information Security, including researches in Data Mining, Machine Learning, Deep Learning and Network Analysis.</texto>
             <texto>B.Sc. of Computer Science from Universidade Federal do Rio de Janeiro. M.Sc. Student of Computing at Universidade Federal Fluminense.</texto>
         </resumo>
         <curriculoPdf>curriculum.zip</curriculoPdf>
-        <resumoRodape>Amateur football player, lover of electronic games, movies and series. Google+ account has links for my personal blogs and curriculum lattes. In favor of liberating and humanistic education. Against conservatism.</resumoRodape>
+        <resumoRodape>Amateur football player, lover of sports, electronic games and cinema. In favor of liberating and humanistic education. Against conservatism.</resumoRodape>
     </sobre>
 
     <projetos>
@@ -65,7 +65,7 @@
     <redesSociais>
         <facebook>https://www.facebook.com/eduardo.andrade.3158</facebook>-->
         <instagram>https://www.instagram.com/eduardo.andrade.3158/</instagram>
-        <googleplus>https://plus.google.com/104741860214975458255</googleplus>
+        <!--<googleplus>https://plus.google.com/104741860214975458255</googleplus>-->
         <twitter>https://twitter.com/adaeeduardo</twitter>
         <linkedin>https://br.linkedin.com/in/eduardo-de-oliveira-andrade-12815215</linkedin>
         <github>https://github.com/eduardoandrade/</github>
@@ -74,7 +74,7 @@
     <contato>
         <texto>Feel free to talk to me, either by Skype or Email.</texto>
         <localizacao>Niterói, Rio de Janeiro - Brazil</localizacao>
-        <email>eduardoandrade@ufrj.br</email>
+        <email>eandrade@ic.uff.br</email>
         <telefones>
             <item>Eduardo Andrade</item>
             <item>jaba.eduardo</item>
