@@ -50,10 +50,10 @@
         </item>
 
         <item>
-            <nome>Nmap IPv6 Modified</nome>
-            <imagem>img/portfolio/nmap.png</imagem>
+            <nome>MC-dataset-multiclass</nome>
+            <imagem>img/portfolio/dataset.png</imagem>
             <descricao>
-                <![CDATA[This is a modified version of an existent Nmap with features to accelerate port scans.]]>
+                <![CDATA[Multiclass and labeled dataset created and made publicly available containing 3290 samples of cleanwares and 16450 of malwares distributed among five distinct classes of malware]]>
             </descricao>
             <!--<data>2014</data>-->
             <!--<servico>Front-end</servico>-->
