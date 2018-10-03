@@ -15,14 +15,14 @@
         <avatar>img/profile.png</avatar>
         <nome>Eduardo Andrade</nome>
         <mensagemBoasVindas>Welcome!</mensagemBoasVindas>
-        <habilidades>Data Science</habilidades>
+        <habilidades>Computer Scientist</habilidades>
         <resumo>
-            <texto>Enthusiastic of Artificial Intelligence and Information Security, including researches in Data Mining, Machine Learning, Deep Learning and Network Analysis.</texto>
+            <texto>Enthusiastic of Artificial Intelligence and Information Security, including researches in Data Mining, Machine Learning, Deep Learning and Malware Analysis.</texto>
             <texto>B.Sc. of Computer Science from Universidade Federal do Rio de Janeiro. M.Sc. Student of Computing at Universidade Federal Fluminense.</texto>
             <texto>http://lattes.cnpq.br/3122564652271949</texto>
         </resumo>
         <curriculoPdf>curriculum.zip</curriculoPdf>
-        <resumoRodape>Amateur football player, lover of sports, games and cinema. In favor of liberating and humanistic education. Against conservatism.</resumoRodape>
+        <resumoRodape>Amateur football player, lover of sports, games and cinema. In favor of liberating and humanistic education.</resumoRodape>
     </sobre>
 
     <projetos>
