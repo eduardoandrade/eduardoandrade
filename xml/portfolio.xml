@@ -53,7 +53,7 @@
             <nome>MC-dataset-multiclass</nome>
             <imagem>img/portfolio/dataset.png</imagem>
             <descricao>
-                <![CDATA[Multiclass and labeled dataset created and made publicly available containing 3290 samples of cleanwares and 16450 of malwares distributed among five distinct classes of malware]]>
+                <![CDATA[Multiclass and labeled dataset created and made publicly available containing 3290 samples of cleanwares and 16450 of malwares distributed among five distinct classes of malware.]]>
             </descricao>
             <!--<data>2014</data>-->
             <!--<servico>Front-end</servico>-->
