@@ -17,8 +17,8 @@
         <mensagemBoasVindas>Welcome!</mensagemBoasVindas>
         <habilidades>Computer Scientist</habilidades>
         <resumo>
-            <texto>Enthusiastic of Artificial Intelligence and Information Security, including researches in Data Mining, Machine Learning, Deep Learning and Malware Analysis.</texto>
-            <texto>B.Sc. of Computer Science from Universidade Federal do Rio de Janeiro. M.Sc. Student of Computing at Universidade Federal Fluminense.</texto>
+            <texto>Artificial Intelligence, Computer Vision and Information Security, including researches in Machine Learning, Object Detection and Malware Analysis./texto>
+            <texto>PhD Student at Universidade Federal Fluminense. M.Sc. of Computing from Universidade Federal Fluminense. B.Sc. of Computer Science from Universidade Federal do Rio de Janeiro.</texto>
             <texto>http://lattes.cnpq.br/3122564652271949</texto>
         </resumo>
         <curriculoPdf>curriculum.zip</curriculoPdf>
@@ -64,7 +64,7 @@
 
     <!--Comentar o que não utilizar-->
     <redesSociais>
-        <facebook>https://www.facebook.com/eduardo.andrade.3158</facebook>-->
+        <!--facebook>https://www.facebook.com/eduardo.andrade.3158</facebook>-->
         <instagram>https://www.instagram.com/eduardo.andrade.3158/</instagram>
         <!--<googleplus>https://plus.google.com/104741860214975458255</googleplus>-->
         <twitter>https://twitter.com/adaeeduardo</twitter>
