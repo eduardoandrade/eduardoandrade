@@ -18,7 +18,7 @@
         <habilidades>Computer Scientist</habilidades>
         <resumo>
             <texto>Artificial Intelligence, Computer Vision and Information Security, including researches in Machine Learning, Object Detection and Malware Analysis.</texto>
-            <texto>PhD Student of Computing at Universidade Federal Fluminense. M.Sc. of Computing from Universidade Federal Fluminense. B.Sc. of Computer Science from Universidade Federal do Rio de Janeiro.</texto>
+            <texto>Ph.D. Student of Computing at Universidade Federal Fluminense. M.Sc. of Computing from Universidade Federal Fluminense. B.Sc. of Computer Science from Universidade Federal do Rio de Janeiro.</texto>
             <texto>http://lattes.cnpq.br/3122564652271949</texto>
         </resumo>
         <curriculoPdf>cv/curriculum.zip</curriculoPdf>
@@ -74,7 +74,7 @@
 
     <contato>
         <texto>Feel free to talk to me, either by Skype or Email.</texto>
-        <localizacao>Niterói, Rio de Janeiro - Brazil</localizacao>
+        <localizacao>Rio de Janeiro - Brazil</localizacao>
         <email>eandrade@ic.uff.br</email>
         <telefones>
             <item>Eduardo Andrade</item>
